@@ -1,4 +1,4 @@
-GOMS - alarm2:
+GOMS - alarm1:
 
 Расчёт
 
